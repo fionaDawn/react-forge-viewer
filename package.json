@@ -1,7 +1,7 @@
 {
-  "name": "react-forge-viewer",
-  "version": "0.3.2",
-  "description": "A component wrapper to quickly add the Forge model viewer in your React apps.",
+  "name": "react-forge-viewer-eu",
+  "version": "0.0.1",
+  "description": "A component wrapper to quickly add the Forge model viewer in your React apps. Supports EU region.",
   "main": "build/index.js",
   "license": "MIT",
   "keywords": [
@@ -13,9 +13,10 @@
     "AutoCAD",
     "CAD",
     "React",
-    "Outer Labs"
+    "Outer Labs",
+    "EU"
   ],
-  "homepage": "https://github.com/outer-labs/react-forge-viewer",
+  "homepage": "https://github.com/fionaDawn/react-forge-viewer",
   "peerDependencies": {
     "react": "^16.4.1"
   },
@@ -32,8 +33,7 @@
     "build": "webpack"
   },
   "author": {
-    "name": "Karl Garske",
-    "email": "karl@outerlabs.io"
+    "name": "Fiona Potestas"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
