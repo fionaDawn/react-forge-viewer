@@ -2,6 +2,8 @@
 
 ## Motivation
 
+Forked from `https://github.com/outer-labs/react-forge-viewer`
+
 Autodesk provides a web-based viewer that can load and display a wide range of 2D and 3D models (Revit, Navisworks, AutoCAD, etc.).
 
 The `ForgeViewer` component in this package makes it easy to include and interact with the viewer in your React apps by wrapping the standard Autodesk libraries in a React-friendly interface.
