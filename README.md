@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Forked from `https://github.com/outer-labs/react-forge-viewer`
+Forked from [React Forge Viewer](https://github.com/outer-labs/react-forge-viewer)
 
 Autodesk provides a web-based viewer that can load and display a wide range of 2D and 3D models (Revit, Navisworks, AutoCAD, etc.).
 
